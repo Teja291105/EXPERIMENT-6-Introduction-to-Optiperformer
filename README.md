@@ -1,4 +1,3 @@
-
 Exp 6 Simulation of Optical Communication System
 ## Introduction to OptiPerformer 
 ## Objective
@@ -69,20 +68,15 @@ The system includes:
 ## Tabulation
 
 **Transmission Analysis Across Fiber Lengths**
-
-| S.No | Fiber Length (km) | Optical Power (Watts) | Optical Power (dBm) | Max Q Factor | Min BER | Eye Height | Decision Instant (Max Q / Min BER) |
-|------|-------------------|------------------------|----------------------|--------------|---------|-------------|-------------------------------------|
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
+<img width="1470" height="864" alt="image" src="https://github.com/user-attachments/assets/9c3568cd-974f-4b68-a20d-e7cebc5e384f" />
 
 ---
 
 ## Graphs
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/9cf9bbbc-d90c-443c-9a5e-0f74e86d37cc" />
 
-*(Insert plots of Optical Power, Q Factor, and BER vs. Fiber Length here)*
+## RESULT
+Hence the Graphs are verified using Optiperformer.
 
 ---
 
